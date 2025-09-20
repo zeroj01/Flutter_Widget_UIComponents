@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'RichText - Pornhub Theme',
+      title: 'RichText ',
       theme: ThemeData(
         brightness: Brightness.dark,
         scaffoldBackgroundColor: Colors.black,
@@ -97,3 +97,4 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+
